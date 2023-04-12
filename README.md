@@ -9,13 +9,6 @@ notmirk
 
 ---
 
-1
-
-[![NotMirk's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=notmirk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/notmirk/github-readme-stats#gh-dark-mode-only)
-[![NotMirk's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=notmirk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/notmirk/github-readme-stats#gh-light-mode-only)
-
----
-
 2
 
 [![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk)](https://github.com/notmirk/github-readme-stats)
