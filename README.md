@@ -7,7 +7,7 @@ notmirk
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="350"></a>
 </p>	
 
-[NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=dark&show_icons=true)
+![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=dark&show_icons=true)
 
 ---
 
