@@ -7,10 +7,9 @@ notmirk
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="350"></a>
 </p>	
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=notmirk" width="370"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk" width="350"></a>
-</p>	
+[NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=dark&show_icons=true)
+
+---
 
 <p align='center'>
     <a href='https://github.com/notmirk?tab=repositories&sort=stargazers'>
