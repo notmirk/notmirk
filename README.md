@@ -12,19 +12,18 @@ notmirk
 2
 
 [![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk)](https://github.com/notmirk/github-readme-stats)
+[![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)](https://github.com/notmirk/github-readme-stats)
 
 ---
 
 3
 
 ![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)
-![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)
 
 ---
 
 4
 
-![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=transparent&show_icons=true&hide_border=true)
 ![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=transparent&show_icons=true&hide_border=true)
 
 ---
