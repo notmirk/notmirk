@@ -7,11 +7,19 @@ notmirk
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="350"></a>
 </p>	
 
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk)](https://github.com/notmirk/github-readme-stats)
 
+---
 
 ![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)
 ![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)
+
+---
+
+![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=transparent&show_icons=true&hide_border=true)
+![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=transparent&show_icons=true&hide_border=true)
 
 ---
 
