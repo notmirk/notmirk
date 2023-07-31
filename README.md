@@ -46,9 +46,3 @@ Here are some ideas to get you started:
 [builtwithnix]: https://builtwithnix.org/
 [downloads-badge]: https://img.shields.io/github/downloads/notmirk/notmirk/total?style=flat-square
 [releases]: https://github.com/notmirk/notmirk/releases
-
----
-
-[![crates.io][crates.io-badge]][crates.io]
-[![Downloads][downloads-badge]][releases]
-[![Built with Nix][builtwithnix-badge]][builtwithnix]
