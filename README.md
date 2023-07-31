@@ -3,7 +3,9 @@
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="370"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="350"></a>
+</p>
 
+<p align="center">
     <a href="https://github.com/notmirk?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/notmirk"/>
     </a>	
