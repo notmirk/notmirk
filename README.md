@@ -9,23 +9,6 @@ notmirk
 
 ---
 
-3
-
-![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)
-[![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&theme=github_dark_dimmed&show_icons=true&hide_border=true)](https://github.com/notmirk/github-readme-stats)
-
-![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=github_dark&show_icons=true&hide_border=true)
-[![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/notmirk/github-readme-stats)
-
----
-
-4
-
-![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmirk&theme=transparent&show_icons=true&hide_border=true)
-[![NotMirk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notmirk&theme=transparent&show_icons=true&hide_border=true)](https://github.com/notmirk/github-readme-stats)
-
----
-
 <p align='center'>
     <a href='https://github.com/notmirk?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/notmirk'/>
