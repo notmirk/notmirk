@@ -1,6 +1,6 @@
 # notmirk
 
-When there is _nowhere_ else.
+When there is __nowhere__ else.
 
 ---
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=notmirk&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="370"></a>
