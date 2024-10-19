@@ -15,4 +15,5 @@ When there is **nowhere** else.
 - DLNA player
 - text log filter
 - PuTTY Start
+- colour: #332524
 -->
