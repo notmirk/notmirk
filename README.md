@@ -15,5 +15,6 @@ When there is **nowhere** else.
 - DLNA player
 - text log filter
 - PuTTY Start
-- colour: #332524
+- colour: #D22B2B - cadmium red
+https://htmlcolorcodes.com/colors/cadmium-red/
 -->
